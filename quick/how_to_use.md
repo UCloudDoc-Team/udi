@@ -1,6 +1,6 @@
 # 使用UDI服务
 
-1.  登录[官网控制台][https://www.ucloud.cn]
+1.  登录[官网控制台](https://www.ucloud.cn])
 2. 点击官网右上角 [登录控制台](https://console.ucloud.cn) 按钮。
 3. 在控制台界面左上角点击全部产品按钮，在产品列表中点击 [数据智能 UDI](https://console.ucloud.cn/udi/content_review)。
 
