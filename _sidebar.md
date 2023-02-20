@@ -1,4 +1,3 @@
-* [概览](/udi/README.md)
 * 产品简介
    * [产品概述](/udi/introduction/concept)
    * [功能概览](/udi/introduction/functions)
