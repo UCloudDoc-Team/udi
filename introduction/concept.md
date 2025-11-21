@@ -14,7 +14,7 @@ UCloud数据智能(UCloud Data Intelligence, 简称UDI)产品是为用户在云�
 
 敬请期待
 
-> 目前可了解US3内置的[图片处理服务](https://docs.ucloud.cn/ufile/service/pic)
+> 目前可了解US3内置的[图片处理服务](https://docs.ucloud.cn/ufile/service/introduction)
 
 #### 媒体处理
 
